@@ -16,7 +16,7 @@ Projeto dedicada à atividade referente ao dia 25/08 - Do Problema ao Primeiro B
 ## Labels
 
 ## Integrantes
-###Scrum Master
+### Scrum Master
 Leonardo Portaluppi Ferreira - 2034186
 ### Demais participantes
 -> Pedro Henrique Francisco do Nascimento - 2080759\
