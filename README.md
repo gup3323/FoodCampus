@@ -7,6 +7,15 @@ Projeto dedicada à atividade referente ao dia 25/08 - Do Problema ao Primeiro B
 
 ## Principais Usuários
 
+## Histórias dos usuários
+-> Queria, como universitário, não precisar ficar esperando na fila durante todo o intervalo... 
+-> Como trabalhador e universitário, gostaria de ter mais tempo para comer no intervalo sem ter que esperar muito tempo na fila.
+-> Como funcionário, gostaria de aprimorar a agilidade de atendimento com alguma aplicação como o Ifood para evitar enfrentar uma fila enorme.
+-> Como gerente do estabelecimento, gostaria que tivesse mais uma cantina próxima para dividir movimento.
+-> Como chefe do estabelecimento, gostaria de ter uma base para conseguir analisar os produtos que mais saem e controlar os gastos de forma mais precisa.
+-> Como guarda do campus, com o movimento que gera na cantina, é impossível prestar atenção em tudo. Gostaria que o movimento diminuísse.
+-> Como atendente, ficaria mais fácil se tivesse um sistema onde os universitário consigam realizar seus pedidos sem precisar formar uma fila gigantesca e desorganizada. De forma que possam vir com o número do pedido para retirada.
+
 ## Histórias com Critério de Aceitação
 
 ## Histórias em Atividade Técnica
