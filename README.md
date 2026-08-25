@@ -23,6 +23,10 @@ Agilizar a operação e reduzir os gargalos, tanto para os funcionários da cant
 ## Histórias em Atividade Técnica
 
 ## MVP Identificado
+**Objetivo:**Um cardápio digital com formatos de agendamento online
+Um software com funcionalidades operacionais que funcionem de forma online com agendamentos via celular ou totem, com pagamento antecipado, facilitando defesa contra possíveis "fraudes" e também viabilidade para criar um login 
+guardando possíveis pedidos anteriores que gostaria de repetir novamente, ou usuário "convidado" que envie uma cópia via contato direto com o cliente (Whatsapp, E-mail, SMS, etc). 
+Scrum Master - Leonardo Portaluppi
 
 ## Labels
 
