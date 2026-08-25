@@ -9,10 +9,10 @@ Agilizar a operação e reduzir os gargalos, tanto para os funcionários da cant
 
 ## Principais Usuários
 ### Funcionários:
-Os principais usuários identificados seriam os atendentes: Jureuma e Jonathan e os cozinheiros, responsáveis por preparar todos os pedidos dos universitários: Ricardo, Paloma e Luciana.
+Os principais usuários identificados seriam os atendentes: Jureuma e Jonathan e os cozinheiros, responsáveis por preparar todos os pedidos dos universitários: Ricardo, Paloma e Luciana.\
 O dono do estabelecimento Ronaldo Gaucho, o gerente Valdir dos Santos, e o chefe de cozinha Paulo Machado.
 ### Clientes:
-Os universitários frequentantes são os que estudam em blocos próximos à cantina.
+Os universitários frequentantes são os que estudam em blocos próximos à cantina.\
 Os trabalhadores que fazem algum curso da faculdade.
 
 ## Histórias dos usuários
