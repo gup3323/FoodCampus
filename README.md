@@ -2,6 +2,7 @@
 Projeto dedicada à atividade referente ao dia 25/08 - Do Problema ao Primeiro Backlog
 
 ## Problema Identificado
+A falta de um sistema de controle nos pontos de alimentação da universidade gera um grande gargalo na organização interna e na interação com os clientes. Os alunos não sabem quais produtos estão disponíveis nem podem pedir e pagar com antecedência. Consequentemente, isso gera filas e longas esperas, a cantina não consegue prever os pedidos para adiantar o preparo e os estudantes não sabem quando o pedido está pronto.
 
 ## Objetivo(S)
 
