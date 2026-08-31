@@ -33,7 +33,7 @@ Os trabalhadores que fazem algum curso da faculdade.
 -Criar endpoint para solicitação de senha/entrar na fila virtual via app.\
 -Criar interface simples para o estudante pegar a senha e acompanhar a chamada.\
 -Integrar frontend com o endpoint de fila virtual.\
--Criar testes da lógica de geração e ordenação de senhas.\
+-Criar testes da lógica de geração e ordenação de senhas.
 
 "Como trabalhador e universitário, gostaria de ter mais tempo para comer no intervalo sem ter que esperar muito tempo na fila.":\
 -Criar estrutura/model da entidade PedidoAgendado (com horário fixo de retirada e combo do lanche).\
@@ -41,7 +41,7 @@ Os trabalhadores que fazem algum curso da faculdade.
 -Criar endpoint para agendar a refeição para o horário exato do intervalo.\
 -Criar interface de visualização do cardápio express e seleção do horário do intervalo.\
 -Integrar frontend com o endpoint de agendamento de refeições.\
--Criar testes das validações de horário e disponibilidade de preparo.\
+-Criar testes das validações de horário e disponibilidade de preparo.
 
 ## MVP Identificado
 **Objetivo:**Um cardápio digital com formatos de agendamento online
