@@ -26,6 +26,14 @@ Os trabalhadores que fazem algum curso da faculdade.
 
 ## Histórias com Critério de Aceitação
 
+"Como trabalhador e universitário, gostaria de ter mais tempo para comer no intervalo sem ter que esperar muito tempo na fila.:"\
+Critério de Aceitação:\
+- Sabendo que o estudante possui o aplicativo aberto antes do horário do intervalo, quando ele selecionar seus itens do cardápio e escolher um horário de retirada, então o sistema deve confirmar o pagamento e agendar a preparação do pedido para o horário solicitado.\
+"Como atendente, ficaria mais fácil se tivesse um sistema onde os universitários consigam realizar seus pedidos de forma que possam vir com o número do pedido para retirada.:"
+Critério de Aceitação:\
+ - Agora que o atendente finalizou a preparação de um lanche no sistema, quando ele clicar em "Marcar como Pronto", o número do pedido deve aparecer no painel digital de chamadas da cantina, estilo BK\
+
+
 ## Histórias em Atividade Técnica
 "Queria, como universitário, não precisar ficar esperando na fila durante todo o intervalo...":\
 -Criar estrutura/model da entidade Fila e FichaDeAtendimento.\
