@@ -27,33 +27,21 @@ Os trabalhadores que fazem algum curso da faculdade.
 ## Histórias com Critério de Aceitação
 
 ## Histórias em Atividade Técnica
-"Queria, como universitário, não precisar ficar esperando na fila durante todo o intervalo...":
+"Queria, como universitário, não precisar ficar esperando na fila durante todo o intervalo...":\
+-Criar estrutura/model da entidade Fila e FichaDeAtendimento.\
+-Criar migration para a tabela de senhas/fichas no banco de dados.\
+-Criar endpoint para solicitação de senha/entrar na fila virtual via app.\
+-Criar interface simples para o estudante pegar a senha e acompanhar a chamada.\
+-Integrar frontend com o endpoint de fila virtual.\
+-Criar testes da lógica de geração e ordenação de senhas.\
 
--Criar estrutura/model da entidade Fila e FichaDeAtendimento.
-
--Criar migration para a tabela de senhas/fichas no banco de dados.
-
--Criar endpoint para solicitação de senha/entrar na fila virtual via app.
-
--Criar interface simples para o estudante pegar a senha e acompanhar a chamada.
-
--Integrar frontend com o endpoint de fila virtual.
-
--Criar testes da lógica de geração e ordenação de senhas.
-
-"Como trabalhador e universitário, gostaria de ter mais tempo para comer no intervalo sem ter que esperar muito tempo na fila.":
-
--Criar estrutura/model da entidade PedidoAgendado (com horário fixo de retirada e combo do lanche).
-
--Criar migration da tabela de pedidos agendados no banco de dados.
-
--Criar endpoint para agendar a refeição para o horário exato do intervalo.
-
--Criar interface de visualização do cardápio express e seleção do horário do intervalo.
-
--Integrar frontend com o endpoint de agendamento de refeições.
-
--Criar testes das validações de horário e disponibilidade de preparo.
+"Como trabalhador e universitário, gostaria de ter mais tempo para comer no intervalo sem ter que esperar muito tempo na fila.":\
+-Criar estrutura/model da entidade PedidoAgendado (com horário fixo de retirada e combo do lanche).\
+-Criar migration da tabela de pedidos agendados no banco de dados.\
+-Criar endpoint para agendar a refeição para o horário exato do intervalo.\
+-Criar interface de visualização do cardápio express e seleção do horário do intervalo.\
+-Integrar frontend com o endpoint de agendamento de refeições.\
+-Criar testes das validações de horário e disponibilidade de preparo.\
 
 ## MVP Identificado
 **Objetivo:**Um cardápio digital com formatos de agendamento online
