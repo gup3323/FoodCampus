@@ -28,11 +28,17 @@ Os trabalhadores que fazem algum curso da faculdade.
 
 "Como trabalhador e universitário, gostaria de ter mais tempo para comer no intervalo sem ter que esperar muito tempo na fila.:"\
 Critério de Aceitação:\
-- Sabendo que o estudante possui o aplicativo aberto antes do horário do intervalo, quando ele selecionar seus itens do cardápio e escolher um horário de retirada, então o sistema deve confirmar o pagamento e agendar a preparação do pedido para o horário solicitado.\
+- Sabendo que o estudante possui o aplicativo aberto antes do horário do intervalo, quando ele selecionar seus itens do cardápio e escolher um horário de retirada, então o sistema deve confirmar o pagamento e agendar a preparação do pedido para o horário solicitado.
+  
 "Como atendente, ficaria mais fácil se tivesse um sistema onde os universitários consigam realizar seus pedidos de forma que possam vir com o número do pedido para retirada.:"
 Critério de Aceitação:\
  - Agora que o atendente finalizou a preparação de um lanche no sistema, quando ele clicar em "Marcar como Pronto", o número do pedido deve aparecer no painel digital de chamadas da cantina, estilo BK\
 
+"Como chefe do estabelecimento, gostaria de ter uma base para conseguir analisar os produtos que mais saem e controlar os gastos de forma mais precisa."\
+- Sendo que o gerente acessa o painel administrativo, quando ele filtrar por um período (dia, semana ou mês),o sistema deve gerar um gráfico e uma lista dos produtos mais vendidos ordenados por quantidade
+
+"Como funcionário, gostaria de aprimorar a agilidade de atendimento com alguma aplicação como o iFood para evitar enfrentar uma fila enorme."\
+- Tendo que o usuário realizou o pedido pelo aplicativo, quando ele acessar a tela "Meus Pedidos", ele deve visualizar a etapa exata em que seu lanche está (Recebido, Em Preparo, Aguardando Retirada).
 
 ## Histórias em Atividade Técnica
 "Queria, como universitário, não precisar ficar esperando na fila durante todo o intervalo...":\
